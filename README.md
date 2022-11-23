@@ -1,7 +1,7 @@
 ## Repo Description
 My solutions to the exercises proposed in the [rust cryptography engineering study group](https://hackmd.io/ibBmMR3DQlO8tCPBU5-c2g)
 
-## Additional Sources
+## Additional Resources
 
 ### Libraries
 - [crates.io](https://crates.io/) - Rust crate registry
